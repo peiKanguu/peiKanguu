@@ -12,7 +12,4 @@ Hi guys, I'm **Pei Kang**.
  
 ## 💻 Open Source Work Stats
 
-
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
-
 [![peiKanguu's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiKanguu)](https://github.com/peiKanguu/github-readme-stats)
