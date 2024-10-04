@@ -15,3 +15,5 @@ Hi guys, I'm **Pei Kang**.
 
 
 ![peiKanguu's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiKanguu&show_icons=true)
+
+![peiKanguu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peiKanguu&layout=compact&hide_border=true&langs_count=10)
