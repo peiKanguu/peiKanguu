@@ -14,4 +14,4 @@ Hi guys, I'm **Pei Kang**.
 
 
 
-![peiKanguu's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiKanguua&show_icons=true)
+![peiKanguu's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiKanguu&show_icons=true)
