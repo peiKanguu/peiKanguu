@@ -5,6 +5,8 @@ Hi guys, I'm **Pei Kang**. A college student who is working hard to learn code.�
 My gitee: 
 [yuzhiu](https://gitee.com/yuzhiU "Visit my gitte personal homepage")
 
+My personal blog:
+[鱼籽油](https://blog.csdn.net/m0_74234168?type=blog "CSDN")
 
 ## 📫 Contact Me on Social Media
 
@@ -27,6 +29,7 @@ Project link: [landlord](https://gitee.com/zhangjiaxioaxiaohai/landlords "斗地
 Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mode=read_only
  
 ## 💻 Open Source Work Stats
+
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=peiKanguu&show_icons=true" alt="peiKanguu's GitHub stats" style="margin-right: 10px;"/>
