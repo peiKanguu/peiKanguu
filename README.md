@@ -34,4 +34,7 @@ Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mod
 
 ## 🤖 Project Langeage
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={peiKanguu}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peiKanguu&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
+
+![Visitor Count](https://profile-counter.glitch.me/peiKanguu/count.svg)
