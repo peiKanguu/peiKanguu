@@ -30,4 +30,4 @@ Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mod
  
 ## 💻 Open Source Work Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiKanguu&count_private=true&hide=stars)
