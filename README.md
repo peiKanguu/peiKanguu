@@ -31,9 +31,8 @@ Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mod
 ## 💻 Open Source Work Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiKanguu&=anuraghazra&show_icons=true)
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=peiKanguu&show_icons=true" alt="peiKanguu's GitHub stats" style="margin-right: 10px;"/>
+    <img src="(https://github-readme-stats.vercel.app/api?username=peiKanguu&show_icons=true)" alt="peiKanguu's GitHub stats" style="margin-right: 10px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peiKanguu&layout=compact&hide_border=true&langs_count=10" alt="peiKanguu's Most used languages"/>
 </div>
