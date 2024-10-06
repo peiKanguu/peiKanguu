@@ -13,9 +13,12 @@ Personal email: yuzhiu374@gmail.com
 😉I am an undergraduate student of computer science and have learned C and C++, UNIX and SQL.
 
 ✔️I developed a stand-alone snake game with my friends using VS2022, EasyX and git.
-Product prototype:https://modao.cc/proto/design/pb2lrvkygd4ghnbps
+
+Product prototype:[https://modao.cc/proto/design/pb2lrvkygd4ghnbps](https://modao.cc/proto/pFFHTxs7wktojW6G0kkJ/sharing?view_mode=read_only #Greedy Snake-分享)
 
 ⛽I am developing a three-player online landlord assignment game.
+
+Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mode=read_only #欢乐斗地主-分享
  
 ## 💻 Open Source Work Stats
 
