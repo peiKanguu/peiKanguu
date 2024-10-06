@@ -1,6 +1,10 @@
 ## 👋 Introduction
 
-Hi guys, I'm **Pei Kang**. A computer enthusiast (coder).
+Hi guys, I'm **Pei Kang**. A college student who is working hard to learn code.💕
+
+My gitee: 
+[yuzhiu](https://gitee.com/yuzhiU "Visit my gitte personal homepage")
+
 
 ## 📫 Contact Me on Social Media
 
@@ -14,11 +18,13 @@ Personal email: yuzhiu374@gmail.com
 
 ✔️I developed a stand-alone snake game with my friends using VS2022, EasyX and git.
 
-Product prototype:[https://modao.cc/proto/design/pb2lrvkygd4ghnbps](https://modao.cc/proto/pFFHTxs7wktojW6G0kkJ/sharing?view_mode=read_only #Greedy Snake-分享)
+Product prototype:[https://modao.cc/proto/design/pb2lrvkygd4ghnbps](https://modao.cc/proto/pFFHTxs7wktojW6G0kkJ/sharing?view_mode=read_only)
 
 ⛽I am developing a three-player online landlord assignment game.
 
-Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mode=read_only #欢乐斗地主-分享
+Project link: [landlord](https://gitee.com/zhangjiaxioaxiaohai/landlords "斗地主" )
+
+Product prototype:https://modao.cc/proto/4A40jgqKsgwuvyc87fxP7a/sharing?view_mode=read_only
  
 ## 💻 Open Source Work Stats
 
